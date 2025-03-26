@@ -1,0 +1,17 @@
+body{text-align: justify;}
+h1{
+   background-image: url('gallery/Mangal_Shobhajatra_in_Dhaka.jpg');
+   height: 500px;
+   background-repeat: no-repeat;
+   font-size: 50px;
+   text-align: center;
+   background-size: cover;
+}
+div>img {
+   margin: 10px;
+   border: 1px solid #ccc;
+   float: left;
+   width: 400px;
+   height: 300px;
+   
+}
